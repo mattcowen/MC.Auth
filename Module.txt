@@ -1,0 +1,10 @@
+﻿Name: MC.Auth
+AntiForgery: enabled
+Author: Matt Cowen
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.9.x
+Description: Provides authentication using Thinktecture Identity Server
+Features:
+    MC.Auth:
+        Description: Enable to authenticate users using Identity Server.
